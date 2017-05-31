@@ -10,5 +10,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 1) npm install
 2) ng serve
 
+## Sample CSV file provided in assets folder
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
